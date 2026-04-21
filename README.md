@@ -12,6 +12,9 @@ We were tired of seeing "eco friendly" labels on everything when nearly **80% of
 * **Verifies**: **Gemini 2.5 Flash** scans news reports, legal filings, and environmental studies for contradictions (e.g., hidden emissions or climate lobbying).
 * **Truth Score**: Generates a 0–100 score to help you identify true environmental leaders.
 
+## My Contribution
+I worked on configuring the connection between the backend and the Gemini API. My contribution helped allow the application to cross-reference companies’ sustainability claims with real-world data such as news articles, blogs, and other external sources.
+
 ## 🚀 Tech Stack
 *  [Gemini 2.5 Flash](https://aistudio.google.com/) (Reasoning & Conflict Analysis)
 * [Yellowcake API](https://docs.yellowcake.dev/) (Intelligent Structured Scraping)
